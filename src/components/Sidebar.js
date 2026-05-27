@@ -1,6 +1,6 @@
 import './Sidebar.scss'
-import LogoS from '../assets/images/logo-d.png'
-import LogoSubtitle from '../assets/images/logo-img.png'
+import LogoS from '../assets/images/letter_S_clean.svg'
+import LogoSubtitle from '../assets/images/SADDAM_logo.png'
 import { Link, NavLink } from 'react-router-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
@@ -62,24 +62,24 @@ const Sidebar = ({ showNav, setShowNav }) => {
       <ul>
         <li>
           <a
-            href="https://www.linkedin.com/in/daud-gul-a2a340245/"
+            href="https://www.linkedin.com/in/"
             target="_blank"
             rel="noreferrer"
           >
             <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
           </a>
         </li>
-        <li>
+        {/* <li>
           <a
-            href="https://angel.co/u/daud-gul"
+            href="https://angel.co/u/"
             rel="noreferrer"
             target="_blank"
           >
             <FontAwesomeIcon icon={faAngellist} color="#4d4d4e" />
           </a>
-        </li>
+        </li> */}
         <li>
-          <a href="https://github.com/Daudgul" target="_blank" rel="noreferrer">
+          <a href="https://github.com/saddamkhan12345" target="_blank" rel="noreferrer">
             <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
           </a>
         </li>

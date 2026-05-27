@@ -100,16 +100,16 @@ const Contact = () => {
         <div className="map-wrap">
           <div className="info-box">
             <div className="info-map">
-              Mohammad Daud Gul,
+              Saddam Khan,
               <br />
               India,
               <br />
               vidiya house, gujar tola, <br />
               Rampur UP, 244901 <br />
               <br />
-              +91 9012261447
+              +91 7037141469
               <br />
-              mohd.daudgul@gmail.com
+              sid99705@gmail.com
             </div>
           </div>
         </div>

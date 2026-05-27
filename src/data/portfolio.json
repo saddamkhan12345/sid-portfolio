@@ -1,40 +1,34 @@
 {
   "portfolio": [
     {
-      "cover": "/img/p-5.png",
-      "title": "Mordor Intelligence",
-      "description": "Express.js, Node.js, MongoDb",
-      "url": "https://www.mordorintelligence.com/"
-    },
-    {
       "cover": "/img/p-6.png",
       "title": "Subscription Platform",
       "description": "React.js, Redux, Node.js, MongoDb, MUI",
-      "url": "https://subscription.mordorlabs.com/"
+      "url": ""
     },
     {
       "cover": "/img/p-1.png",
       "title": "Hekto shoping app",
       "description": "Nextjs, Tailwind, MUI,  firebase",
-      "url": "https://shopping-web-one.vercel.app"
+      "url": ""
     },
     {
       "cover": "/img/p-3.png",
       "title": "Netflix-clone App",
       "description": "React.js, Redux, firebase",
-      "url": "https://netflix-portfolio-project-three.vercel.app/"
+      "url": ""
     },
     {
       "cover": "/img/p-2.png",
       "title": "Amazone clone app",
       "description": "React, firebase",
-      "url": "https://clone-12b4c.web.app/#yourID"
+      "url": ""
     },    
     {
       "cover": "/img/p-4.png",
       "title": "To-do app",
       "description": "React, Material-UI, ",
-      "url": "https://task-management-app-eight.vercel.app/"
+      "url": ""
     }
   ]
 }
