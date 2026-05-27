@@ -6,7 +6,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faLinkedin,
   faGithub,
-  faAngellist,
 } from '@fortawesome/free-brands-svg-icons'
 import {
   faEnvelope,
@@ -69,15 +68,6 @@ const Sidebar = ({ showNav, setShowNav }) => {
             <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
           </a>
         </li>
-        {/* <li>
-          <a
-            href="https://angel.co/u/"
-            rel="noreferrer"
-            target="_blank"
-          >
-            <FontAwesomeIcon icon={faAngellist} color="#4d4d4e" />
-          </a>
-        </li> */}
         <li>
           <a href="https://github.com/saddamkhan12345" target="_blank" rel="noreferrer">
             <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
